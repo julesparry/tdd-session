@@ -1,4 +1,3 @@
-tdd-session
-===========
+Welcome to the TDD session
+==========================
 
-tdd-session
